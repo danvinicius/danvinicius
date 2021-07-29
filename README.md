@@ -1,6 +1,10 @@
 # Olá, eu sou o Daniel. Bem-vindo(a) ao meu Github! 💛 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dnruby&show_icons=true&locale=en&layout=compact&theme=dracula" alt="dnruby" /></p>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnruby&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dnruby&show_icons=true&locale=en&layout=compact&theme=dark" alt="dnruby" />
+  
+</div>
   
   <div style="display: inline_block"><br>
     <img align="center" alt="HTML5" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -11,11 +15,16 @@
     <img align="center" alt="Git" title="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="NodeJS" title="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="MongoDB" title="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img src='edward.gif' alt='Edward Elric' title='Edward Elric' width='200' align='right'>
 </div>
 
-## <img src='edward.gif' alt='Edward Elric' title='Edward Elric' width='200' align='right'>
+## 
+<div>
+    <a href="https://github.com/dnruby"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="Github" title="Github"/></a>
+    <a href="https://www.linkedin.com/in/daniel-vinicius-19a41b122/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn"/></a>
+    <a href="mailto:viniccius774@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Gmail"/></a>
+    <a href="https://twitter.com/dnruby"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" title="Twitter"/></a>
+    <a href="https://api.whatsapp.com/send?phone=554898191403"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" title="WhatsApp"/></a>
+    <a href="https://t.me/rubydn"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" title="Telegram"/></a>
+</div>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/dnruby)](https://github.com/dnruby)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-vinicius-19a41b122/)](https://www.linkedin.com/in/daniel-vinicius-19a41b122/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniccius774@gmail.com)](mailto:viniccius774@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/dnruby)](https://twitter.com/dnruby)
