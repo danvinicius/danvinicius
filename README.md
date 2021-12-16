@@ -1,7 +1,7 @@
 # Olá, eu sou o Daniel. Bem-vindo(a) ao meu Github! 💛 
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=dnruby&show_icons=true&locale=en&layout=compact&theme=dark" alt="dnruby" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=danvinicius&show_icons=true&locale=en&layout=compact&theme=dark" alt="danvinicius" />
   
 </div>
   
