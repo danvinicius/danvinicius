@@ -1,10 +1,10 @@
 # Hey there, I'm Daniel. Welcome to my Github! 
 <div>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=danvinicius&show_icons=true&locale=en&layout=compact&theme=dark" alt="danvinicius" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=danvinicius&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=danvinicius&show_icons=true&locale=en&layout=compact&theme=dark" alt="danvinicius" />
+  <img src='edward.gif' alt='Edward Elric' title='Edward Elric' width='200' align='right'>
 </div>
   
-<div style="display: inline_block"><br>
+<div style="display: inline-block"><br>
     <img align="center" alt="HTML5" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS3" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,7 +13,7 @@
     <img align="center" alt="VueJS" title="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
     <img align="center" alt="NodeJS" title="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img src='edward.gif' alt='Edward Elric' title='Edward Elric' width='200' align='right'>
+    
 </div>
 
 ## 
