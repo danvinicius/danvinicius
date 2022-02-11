@@ -1,7 +1,7 @@
 # Hey there, I'm Daniel. Welcome to my Github! 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=danvinicius&show_icons=true&locale=en&layout=compact&theme=dark" alt="danvinicius" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danvinicius&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=danvinicius&show_icons=true&locale=en&layout=compact&theme=dark" alt="danvinicius" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=danvinicius&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
   
 <div style="display: inline_block"><br>
