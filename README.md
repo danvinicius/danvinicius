@@ -1,6 +1,6 @@
 # Hey there, I'm Daniel. Welcome to my Github! 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=danvinicius&show_icons=true&locale=en&layout=compact&theme=dark" alt="danvinicius" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=danvinicius&show_icons=true&locale=en&langs_count=7&layout=compact&theme=dark" alt="danvinicius" />
   <img src='edward.gif' alt='Edward Elric' title='Edward Elric' width='200' align='right'>
 </div>
   
