@@ -23,7 +23,7 @@
   <a href="https://gitlab.com/danvinicius"><img src="https://img.shields.io/badge/Gitlab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab" title="Gitlab"/></a>
   <a href="https://t.me/danvinicius"><img src="https://img.shields.io/badge/Telegram-3CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" title="Telegram"/></a>
     <a href="https://api.whatsapp.com/send?phone=5521981834355"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" title="WhatsApp"/></a>
-  <a href="https://twitter.com/dnruby"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" title="Twitter"/></a>
+  <a href="https://twitter.com/dannv_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" title="Twitter"/></a>
   <a href="mailto:viniccius774@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Gmail"/></a>
 </div>
 
