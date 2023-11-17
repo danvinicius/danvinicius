@@ -1,19 +1,6 @@
-# Hey there, It's Daniel. Welcome to my Github!
+<img src="https://camo.githubusercontent.com/fab95a765b1aceb9f1023ecba5af5bd2aa9e3706b0cf132bce3c7da05608d233/68747470733a2f2f6f7268756e2e6465762f696d672f63726f772e706e67" align="left">
 
-<div>
- <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danvinicius&layout=compact&langs_count=5&theme=dark" alt="danvinicius"/>
-  <img src='img/edward.gif' alt='Edward Elric' title='Edward Elric' width='200' align='right'>
-</div>
-
-  
-<div style="display: inline-block"><br>
-    <img align="center" alt="VueJS" title="VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-    <img align="center" alt="NodeJS" title="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="Typescript" title="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-</div>
-
-##
+# Hey there, It's Daniel. Welcome to my Github profile!
 
 <div>
     <a href="https://www.linkedin.com/in/danvinicius/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn"/></a>
@@ -21,3 +8,35 @@
     <a href="https://api.whatsapp.com/send?phone=5521981834355&text=Hey, Daniel! What's up?" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" title="WhatsApp"/></a>
   <a href="mailto:viniccius774@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Gmail"/></a>
 </div>
+<br><br>
+<div>
+ <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danvinicius&layout=compact&langs_count=8&theme=dark" alt="danvinicius"/>
+</div>
+
+##
+
+### Languages and frameworks I'm good at:
+<div style="display: inline-block"><br>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,typescript,vue,python,sass,jest,express,jquery,bootstrap" />
+  </a>
+</div>
+
+### Languages and frameworks I'm learning:
+<div style="display: inline-block"><br>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,styledcomponents" />
+  </a>
+</div>
+
+### Tools and environments I work with:
+<div style="display: inline-block"><br>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,vscode,git,github,azuredevops" />
+  </a>
+</div>
+
+##
+
+<img src='img/edward.gif' alt='Edward Elric' title='Edward Elric' width='200' align='left'>
+
