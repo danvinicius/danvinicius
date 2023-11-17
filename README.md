@@ -8,7 +8,7 @@
     <a href="https://api.whatsapp.com/send?phone=5521981834355&text=Hey, Daniel! What's up?" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" title="WhatsApp"/></a>
   <a href="mailto:viniccius774@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Gmail"/></a>
 </div>
-<br><br>
+<br><br><br>
 <div>
  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danvinicius&layout=compact&langs_count=8&theme=dark" alt="danvinicius"/>
 </div>
