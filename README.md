@@ -19,7 +19,7 @@
 ### Languages and frameworks I'm good at:
 <div style="display: inline-block"><br>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,typescript,vue,python,sass,jest,express,jquery,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=vue,nodejs,typescript,sass,python,jest,jquery,express,bootstrap" />
   </a>
 </div>
 
@@ -27,6 +27,13 @@
 <div style="display: inline-block"><br>
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+</div>
+
+### Databases I'm good at:
+<div style="display: inline-block"><br>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongo,mysql" />
   </a>
 </div>
 
