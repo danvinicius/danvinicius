@@ -26,7 +26,7 @@
 ### Languages and frameworks I'm learning:
 <div style="display: inline-block"><br>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react" />
+    <img src="https://skillicons.dev/icons?i=react,nest" />
   </a>
 </div>
 
