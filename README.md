@@ -19,7 +19,7 @@
 ### Languages and frameworks I'm good at:
 <div style="display: inline-block"><br>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,nodejs,typescript,sass,jest,jquery,express,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=vue,typescript,nodejs,spring" />
   </a>
 </div>
 
