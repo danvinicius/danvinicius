@@ -8,7 +8,7 @@
 </div>
 <br><br><br>
 <div>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danvinicius&layout=compact&langs_count=6&theme=dark" alt="danvinicius"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danvinicius&layout=compact&langs_count=5&theme=dark" alt="danvinicius"/>
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=danvinicius&show_icons=true&count_private=true&theme=dark" alt="danvinicius"/>
 </div>
 
@@ -17,14 +17,14 @@
 ### Languages and frameworks I'm good at:
 <div style="display: inline-block"><br>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,typescript,nodejs" />
+    <img src="https://skillicons.dev/icons?i=vue,typescript,nodejs,python" />
   </a>
 </div>
 
 ### Languages and frameworks I'm learning:
 <div style="display: inline-block"><br>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,spring" />
+    <img src="https://skillicons.dev/icons?i=react" />
   </a>
 </div>
 
