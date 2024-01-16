@@ -21,13 +21,6 @@
   </a>
 </div>
 
-### Languages and frameworks I'm learning:
-<div style="display: inline-block"><br>
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nuxt" />
-  </a>
-</div>
-
 ### Databases I'm good at:
 <div style="display: inline-block"><br>
     <a href="https://skillicons.dev">
