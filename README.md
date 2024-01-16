@@ -38,7 +38,7 @@
 ### Tools and environments I work with:
 <div style="display: inline-block"><br>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,vscode,git,github,azuredevops" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github" />
   </a>
 </div>
 
