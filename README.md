@@ -31,7 +31,7 @@
 ### Databases I'm good at:
 <div style="display: inline-block"><br>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongo,mysql" />
+    <img src="https://skillicons.dev/icons?i=mongo,mysql,redis" />
   </a>
 </div>
 
