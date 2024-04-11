@@ -8,20 +8,20 @@
 </div>
 <br><br><br>
 <div>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danvinicius&layout=compact&langs_count=5&theme=dark" alt="danvinicius"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danvinicius&layout=compact&langs_count=4&theme=dark" alt="danvinicius"/>
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=danvinicius&show_icons=true&count_private=true&theme=dark" alt="danvinicius"/>
 </div>
 
 ##
 
-### Languages and frameworks I'm good at:
+### Languages and frameworks I work with:
 <div style="display: inline-block"><br>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,typescript,vue,jest,python" />
+    <img src="https://skillicons.dev/icons?i=nodejs,typescript,vue,nest,python" />
   </a>
 </div>
 
-### Databases I'm good at:
+### Databases I work with:
 <div style="display: inline-block"><br>
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongo,mysql,redis" />
