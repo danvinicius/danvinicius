@@ -17,7 +17,7 @@
 ### Languages and frameworks I work with:
 <div style="display: inline-block"><br>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,typescript,vue,nest,python" />
+    <img src="https://skillicons.dev/icons?i=nodejs,typescript,java,spring,vue" />
   </a>
 </div>
 
