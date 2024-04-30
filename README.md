@@ -24,7 +24,7 @@
 ### Databases I work with:
 <div style="display: inline-block"><br>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongo,mysql,redis" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongo,postgres" />
   </a>
 </div>
 
