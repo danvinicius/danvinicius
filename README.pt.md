@@ -8,27 +8,27 @@
 </div>
 <br><br><br>
 <div>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danvinicius&layout=compact&langs_count=4&theme=dark" alt="danvinicius"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=danvinicius&show_icons=true&count_private=true&theme=dark" alt="danvinicius"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danvinicius&layout=compact&langs_count=4&theme=dark&locale=pt-br" alt="danvinicius"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=danvinicius&show_icons=true&count_private=true&theme=dark&locale=pt-br" alt="danvinicius"/>
 </div>
 
 ##
 
-### Linguagens e frameworks com que eu trabalho:
+### Linguagens e frameworks com que trabalho:
 <div style="display: inline-block"><br>
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,typescript,java,spring,vue" />
   </a>
 </div>
 
-### bancos de dados com que eu trabalho:
+### Bancos de dados com que trabalho:
 <div style="display: inline-block"><br>
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,mongo,postgres" />
   </a>
 </div>
 
-### Ferramentas e ambientes com que eu trabalho:
+### Ferramentas e ambientes com que trabalho:
 <div style="display: inline-block"><br>
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,git,github" />
