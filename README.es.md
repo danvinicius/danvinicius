@@ -1,7 +1,7 @@
-[![es](https://github.com/danvinicius/danvinicius/blob/main/es.png)](https://github.com/danvinicius/danvinicius/blob/master/README.es.md)
-[![en](https://github.com/danvinicius/danvinicius/blob/main/us.png)](https://github.com/danvinicius/danvinicius/blob/master/README.md)
-[![pt-br](https://github.com/danvinicius/danvinicius/blob/main/br.png)](https://github.com/danvinicius/danvinicius/blob/master/README.pt.md)
-[![jp](https://github.com/danvinicius/danvinicius/blob/main/jp.png)](https://github.com/danvinicius/danvinicius/blob/master/README.ja.md)
+[![es](https://github.com/danvinicius/danvinicius/blob/main/flags/es.png)](https://github.com/danvinicius/danvinicius/blob/master/README.es.md)
+[![en](https://github.com/danvinicius/danvinicius/blob/main/flags/us.png)](https://github.com/danvinicius/danvinicius/blob/master/README.md)
+[![pt-br](https://github.com/danvinicius/danvinicius/blob/main/flags/br.png)](https://github.com/danvinicius/danvinicius/blob/master/README.pt.md)
+[![jp](https://github.com/danvinicius/danvinicius/blob/main/flags/jp.png)](https://github.com/danvinicius/danvinicius/blob/master/README.ja.md)
 
 # Hola, soy Daniel. Bienvenido a mi perfil de Github!
 
