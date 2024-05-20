@@ -1,3 +1,8 @@
+[![jp](https://github.com/danvinicius/danvinicius/blob/main/jp.png)](https://github.com/danvinicius/danvinicius/blob/master/README.ja.md)
+[![en](https://github.com/danvinicius/danvinicius/blob/main/us.png)](https://github.com/danvinicius/danvinicius/blob/master/README.md)
+[![pt-br](https://github.com/danvinicius/danvinicius/blob/main/br.png)](https://github.com/danvinicius/danvinicius/blob/master/README.pt.md)
+[![es](https://github.com/danvinicius/danvinicius/blob/main/es.png)](https://github.com/danvinicius/danvinicius/blob/master/README.es.md)
+
 # こんにちは、ダニエルです。私の Github プロフィールへようこそ!
 
 <div>
