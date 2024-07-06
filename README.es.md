@@ -36,7 +36,7 @@
 ### Herramientas y entornos con los que trabajo:
 <div style="display: inline-block"><br>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+    <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,figma,wordpress" />
   </a>
 </div>
 
