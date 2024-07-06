@@ -36,7 +36,7 @@
 ### 私が使用しているツールと環境:
 <div style="display: inline-block"><br>
     <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,figma,wordpress" />
+     <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,figma,wordpress,aws" />
   </a>
 </div>
 
