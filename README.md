@@ -29,14 +29,14 @@
 ### Databases I work with:
 <div style="display: inline-block"><br>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongo,postgres,aws" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongo,postgres" />
   </a>
 </div>
 
 ### Tools and environments I work with:
 <div style="display: inline-block"><br>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,figma,wordpress" />
+    <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,figma,wordpress,aws" />
   </a>
 </div>
 
