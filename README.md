@@ -1,5 +1,5 @@
 # 👋 Hi there!
-I'm Daniel, a Software Engineer and Backend Developer.
+I'm Daniel, a Software Engineer.
 
 - 📍 Rio de Janeiro, Brazil | 24 years old
 - 🎓 CIS Bachelor | Federal Rural University of Rio de Janeiro
