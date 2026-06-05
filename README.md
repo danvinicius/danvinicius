@@ -1,7 +1,7 @@
 # 👋 Hi there!
 I'm Daniel.
 
-- 📍 Rio de Janeiro, Brazil | 24 years old
+- 📍 Rio de Janeiro, Brazil | 25 years old
 - 🎓 CIS Bachelor | Federal Rural University of Rio de Janeiro
 
 ## 🔧 Tech and tools
